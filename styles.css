@@ -90,4 +90,8 @@ body {
         margin: auto;
         float: none;
     }
+
+    .sidebar a {
+        text-decoration: none; /* underline 스타일 제거 */
+    }
 }
